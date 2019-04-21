@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: 53ebd71c1daebcc49ad83faf42ec9a0f
+timeCreated: 1459038803
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: abandonedBody01_group
+    100002: abandonedBody_01
+    100004: abandonedBody_01 1
+    100006: backLeftDoor01_group
+    100008: backLeftDoor_01
+    100010: backRightDoor01_group
+    100012: backRightDoor_01
+    100014: cryExportNode_abandonedBody_01
+    100016: cryexportnode_backLeftDoor_01
+    100018: cryexportnode_backRightDoor_01
+    100020: cryexportnode_frontLeftDoor_01
+    100022: cryexportnode_frontRightDoor_01
+    100024: cryexportnode_hood_01
+    100026: frontLeftDoor01_group
+    100028: frontLeftDoor_01
+    100030: frontRightDoor01_group
+    100032: frontRightDoor_01
+    100034: hood01_group
+    100036: hood_01
+    100038: transform1
+    100040: transform2
+    100042: transform3
+    100044: transform4
+    100046: transform5
+    100048: transform6
+    100050: //RootNode
+    400000: abandonedBody01_group
+    400002: abandonedBody_01
+    400004: abandonedBody_01 1
+    400006: backLeftDoor01_group
+    400008: backLeftDoor_01
+    400010: backRightDoor01_group
+    400012: backRightDoor_01
+    400014: cryExportNode_abandonedBody_01
+    400016: cryexportnode_backLeftDoor_01
+    400018: cryexportnode_backRightDoor_01
+    400020: cryexportnode_frontLeftDoor_01
+    400022: cryexportnode_frontRightDoor_01
+    400024: cryexportnode_hood_01
+    400026: frontLeftDoor01_group
+    400028: frontLeftDoor_01
+    400030: frontRightDoor01_group
+    400032: frontRightDoor_01
+    400034: hood01_group
+    400036: hood_01
+    400038: transform1
+    400040: transform2
+    400042: transform3
+    400044: transform4
+    400046: transform5
+    400048: transform6
+    400050: //RootNode
+    2300000: abandonedBody_01
+    3300000: abandonedBody_01
+    4300000: abandonedBody_01
+    6400000: abandonedBody_01
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

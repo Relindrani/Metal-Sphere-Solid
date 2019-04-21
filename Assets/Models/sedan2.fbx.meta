@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 4264f591bfc8bcc46b831151c17f3677
+timeCreated: 1459037904
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: abandonedBody01_group
+    100002: backLeftDoor01_group
+    100004: backRightDoor01_group
+    100006: Body
+    100008: BodyCol
+    100010: cryexportnode_abandonedBody_01
+    100012: cryexportnode_backLeftDoor_01
+    100014: cryexportnode_backRightDoor_02
+    100016: cryexportnode_frontLeftDoor_01
+    100018: cryexportnode_frontRighttDoor_01
+    100020: cryexportnode_hood_01
+    100022: cryexportnode_trunk_01
+    100024: frontLeftDoor01_group
+    100026: frontRightDoor01_group
+    100028: Hood
+    100030: hood01_group
+    100032: leftBackDoor
+    100034: leftFrontDoor
+    100036: rightBackDoor
+    100038: rightFrontDoor
+    100040: //RootNode
+    100042: trunk
+    100044: trunk01_group
+    100046: cryexportnode_abandonedBody_02
+    100048: transform1
+    100050: transform2
+    100052: transform3
+    100054: transform4
+    100056: transform5
+    100058: transform6
+    100060: transform7
+    400000: abandonedBody01_group
+    400002: backLeftDoor01_group
+    400004: backRightDoor01_group
+    400006: Body
+    400008: BodyCol
+    400010: cryexportnode_abandonedBody_01
+    400012: cryexportnode_backLeftDoor_01
+    400014: cryexportnode_backRightDoor_02
+    400016: cryexportnode_frontLeftDoor_01
+    400018: cryexportnode_frontRighttDoor_01
+    400020: cryexportnode_hood_01
+    400022: cryexportnode_trunk_01
+    400024: frontLeftDoor01_group
+    400026: frontRightDoor01_group
+    400028: Hood
+    400030: hood01_group
+    400032: leftBackDoor
+    400034: leftFrontDoor
+    400036: rightBackDoor
+    400038: rightFrontDoor
+    400040: //RootNode
+    400042: trunk
+    400044: trunk01_group
+    400046: cryexportnode_abandonedBody_02
+    400048: transform1
+    400050: transform2
+    400052: transform3
+    400054: transform4
+    400056: transform5
+    400058: transform6
+    400060: transform7
+    2300000: Body
+    2300002: BodyCol
+    2300004: Hood
+    2300006: leftBackDoor
+    2300008: leftFrontDoor
+    2300010: rightBackDoor
+    2300012: rightFrontDoor
+    2300014: trunk
+    2300016: cryexportnode_abandonedBody_02
+    3300000: Body
+    3300002: BodyCol
+    3300004: Hood
+    3300006: leftBackDoor
+    3300008: leftFrontDoor
+    3300010: rightBackDoor
+    3300012: rightFrontDoor
+    3300014: trunk
+    3300016: cryexportnode_abandonedBody_02
+    4300000: BodyCol
+    4300002: Body
+    4300004: trunk
+    4300006: Hood
+    4300008: leftFrontDoor
+    4300010: leftBackDoor
+    4300012: rightFrontDoor
+    4300014: rightBackDoor
+    4300016: cryexportnode_abandonedBody_02
+    6400000: cryexportnode_abandonedBody_02
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

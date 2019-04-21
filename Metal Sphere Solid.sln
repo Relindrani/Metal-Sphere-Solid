@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metal Sphere Solid", "Assembly-CSharp-firstpass.csproj", "{57C22ACE-7AE2-7543-D295-97A1E1989C13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metal Sphere Solid", "Assembly-CSharp.csproj", "{E3F5D45C-DDDC-97B1-CF4B-F5AA7F617B87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metal Sphere Solid", "Assembly-CSharp-Editor.csproj", "{64B384E3-A14A-EBEB-7F8A-E2EE16DAE3F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57C22ACE-7AE2-7543-D295-97A1E1989C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C22ACE-7AE2-7543-D295-97A1E1989C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C22ACE-7AE2-7543-D295-97A1E1989C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C22ACE-7AE2-7543-D295-97A1E1989C13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3F5D45C-DDDC-97B1-CF4B-F5AA7F617B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F5D45C-DDDC-97B1-CF4B-F5AA7F617B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3F5D45C-DDDC-97B1-CF4B-F5AA7F617B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F5D45C-DDDC-97B1-CF4B-F5AA7F617B87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64B384E3-A14A-EBEB-7F8A-E2EE16DAE3F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64B384E3-A14A-EBEB-7F8A-E2EE16DAE3F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64B384E3-A14A-EBEB-7F8A-E2EE16DAE3F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64B384E3-A14A-EBEB-7F8A-E2EE16DAE3F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

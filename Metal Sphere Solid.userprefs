@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Metal Sphere Solid.CSharp.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="H:\GITHUB\GAM205 - Gameplay Programming Concepts\BBixler_UATanks\Assets\Scripts\AIController.cs">
+    <Files>
+      <File FileName="H:\GITHUB\GAM205 - Gameplay Programming Concepts\BBixler_UATanks\Assets\Scripts\BulletScript.cs" Line="1" Column="1" />
+      <File FileName="H:\GITHUB\GAM205 - Gameplay Programming Concepts\BBixler_UATanks\Assets\Scripts\CheatController.cs" Line="1" Column="1" />
+      <File FileName="H:\GITHUB\GAM205 - Gameplay Programming Concepts\BBixler_UATanks\Assets\Scripts\AIController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
